@@ -100,9 +100,14 @@ src/
 
 ---
 
-## 📷 Demonstração
-
+## Demonstração
+- Imagem do circuito:
 <img width="1003" height="817" alt="image" src="https://github.com/user-attachments/assets/c3b2ae25-a100-41d7-b46f-343a299b59c9" />
+
+- Video da simulação:
+https://github.com/user-attachments/assets/23673a6b-ca18-46e4-b92b-b6aab421d53b
+
+- Link Wokwi: https://wokwi.com/projects/462011896573960193
 
 ---
 
@@ -110,5 +115,4 @@ src/
 
 - GitHub: https://github.com/KayqueBrasil  
 - LinkedIn: https://www.linkedin.com/in/kayque-brasil  
-
 ---

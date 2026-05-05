@@ -1,4 +1,4 @@
-# ESP32 Irrigation System
+# ESP32 Irrigation System - Wokwi Simulation
 
 Sistema de irrigação automatizado utilizando ESP32, com monitoramento de umidade do solo e controle inteligente de bomba d'água.
 
